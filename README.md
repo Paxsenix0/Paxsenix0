@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Paxsenix0
-- 👀 I’m interested in Android, Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Android app
+- 👋 Hi, I’m PaxSenix.
+- 🧢 You can call me Alex
+- 👀 I’m interested in Android, Java, and PHP
+- 🌱 I’m currently learning Java and PHP
+- 💞️ I’m not looking to collaborate on Android app
 - 📫 How to reach me join my Telegram: https://t.me/PaxSenix
 
 <!---
