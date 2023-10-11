@@ -1,11 +1,11 @@
-- 👋 Hi, I’m PaxSenix.
-- 🧢 You can call me Alex
-- 👀 I’m interested in Android, Java, and PHP
-- 🌱 I’m currently learning Java and PHP
-- 💞️ I’m not looking to collaborate on Android app
-- 📫 How to reach me join my Telegram: https://t.me/PaxSenix
-
-<!---
-Paxsenix0/Paxsenix0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Alex
+  
+> I'm PaxSenix! you can call me Alex :) 
+  
+ Join my Telegram Channel: [@PaxSenix](https://t.me/PaxSenix) 
+  
+ ## Stats 📊 
+  
+ <img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&count_private=true&hide_border=true" align="left" />   
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxsenix0&layout=compact&hide_border=true" align="left" />  
