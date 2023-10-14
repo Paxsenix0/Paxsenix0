@@ -1,4 +1,6 @@
-# Alex
+# Hello!
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Profile%20views&color=0e75b6&style=flat" alt="paxsenix0" /> </p>
   
 > I'm PaxSenix! you can call me Alex :) 
   
