@@ -486,7 +486,7 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >YT PRO Settings</b>
 <br><br>
 <div><input type="url" placeholder="Enter Youtube URL" onkeyup="searchUrl(this,event)"></div>
 <br>
-<div style="text-align:center" ><button onclick="showHearts();">Hearted Videos</button><button style="margin-left:10px" onclick="${(parseInt(Android.getInfo()) < parseInt(YTProVer)) ? "alert('New version available.\\n\\nPlease Update Your YT PRO')" : "alert('YT PRO is upto date');"}">Check for Updates</button></div>
+<div style="text-align:center" ><button onclick="showHearts();">Hearted Videos</button><button style="margin-left:10px" onclick="${(parseInt(Android.getInfo()) < parseInt(YTProVer)) ? "alert('New version available.\\n\\nPlease Update Your Apps\nregars, alex.')" : "alert('No update\nregards, alex.');"}">Check for Updates</button></div>
 <br>
 <div>Autoskip Sponsors <span onclick="sttCnf(this,'autoSpn');" style="${sttCnf(0,0,"autoSpn")}" ><b style="${sttCnf(0,1,"autoSpn")}"></b></span></div>
 <br>
@@ -495,12 +495,12 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >YT PRO Settings</b>
 <div>Force Zoom <span onclick="sttCnf(this,'fzoom');" style="${sttCnf(0,0,"fzoom")}" ><b style="${sttCnf(0,1,"fzoom")}" ></b></span></div> 
 <br>
 <div style="display:flex;justify-content:center;font-family:cursive;text-align:center;font-size:2.25rem;font-weight:bolder;color:#0f8;">Made with 
-&#x2665; by Prateek Chaubey</div>
+&#x2665; by PaxSenix</div>
 <br><br>
-<div style="font-size:1.25rem;"><b style="font-weight:bold">Disclaimer</b>: This is an unofficial OSS Youtube Mod , all the logos and brands are property of Google LLC.<br>
-You can get the source code at <a href="#" onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO')" > https://github.com/prateek-chaubey/YTPRO</a>
+<div style="font-size:1.25rem;"><b style="font-weight:bold">Disclaimer</b>: This is an unofficial OSS Youtube WebView, all the logos and brands are property of Google LLC.<br>
+You can get the source code at Sketchub<a href="#" onclick="Android.oplink('https://web.sketchub.in/u/alex_')" >Sketchub Profile (@alex_)</a>
 <br><br><center>
-<a href="#" onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO/issues')" >Report Bugs</a>
+<a href="#" onclick="Android.oplink('https://t.me/PaxSenix')" >Report Bugs</a>
 </center></div>`;
 
 document.body.appendChild(ytpSet);
@@ -612,7 +612,7 @@ var vids=info.stream.formats;
 var avids=info.stream.adaptiveFormats;
 var t=info.video.title.replaceAll("|","").replaceAll("\\","").replaceAll("?","").replaceAll("*","").replaceAll("<","").replaceAll("/","").replaceAll(":","").replaceAll('"',"").replaceAll(">","");
 ytproDownDiv.innerHTML="<style>#downytprodiv a{text-decoration:none;color:white;} #downytprodiv li{list-style:none; display:flex;align-items:center;justify-content:center;color:#fff;border-radius:25px;padding:10px;background:#000;margin:5px;}</style>";
-ytproDownDiv.innerHTML+="Select Avilaible Formats<ul id='listurl'>";
+ytproDownDiv.innerHTML+="Select Available Formats<ul id='listurl'>";
 
 for(var x in vids){
 ytproDownDiv.innerHTML+=`<li data-ytprotit="${t}"  style="background:#001;"  onclick="YTDownVid(this,'.mp4')"  data-ytprourl="${vids[x].url}">
