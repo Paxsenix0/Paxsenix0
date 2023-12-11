@@ -481,7 +481,7 @@ color:white;
 }
 
 </style>`;
-ytpSetI.innerHTML+=`<b style='font-size:18px' >YT PRO Settings</b>
+ytpSetI.innerHTML+=`<b style='font-size:18px' >YouTube WebView Settings</b>
 <span style="font-size:10px">v${YTProVer}</span>
 <br><br>
 <div><input type="url" placeholder="Enter Youtube URL" onkeyup="searchUrl(this,event)"></div>
@@ -494,13 +494,11 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >YT PRO Settings</b>
 <br>
 <div>Force Zoom <span onclick="sttCnf(this,'fzoom');" style="${sttCnf(0,0,"fzoom")}" ><b style="${sttCnf(0,1,"fzoom")}" ></b></span></div> 
 <br>
-<div style="display:flex;justify-content:center;font-family:cursive;text-align:center;font-size:2.25rem;font-weight:bolder;color:#0f8;">Made with 
-&#x2665; by PaxSenix</div>
 <br><br>
 <div style="font-size:1.25rem;"><b style="font-weight:bold">Disclaimer</b>: This is an unofficial OSS Youtube WebView, all the logos and brands are property of Google LLC.<br>
-You can get the source code at Sketchub<a href="#" onclick="Android.oplink('https://web.sketchub.in/u/alex_')" >Sketchub Profile (@alex_)</a>
+You can get the source code at Sketchub<a href="#" onclick="Android.oplink('https://web.sketchub.in/u/alex_')" > Sketchub Profile</a>
 <br><br><center>
-<a href="#" onclick="Android.oplink('https://t.me/PaxSenix')" >Report Bugs</a>
+<a href="#" onclick="Android.oplink('https://t.me/PaxSenix')" >Telegram</a>
 </center></div>`;
 
 document.body.appendChild(ytpSet);
@@ -604,19 +602,19 @@ id=new URLSearchParams(window.location.search).get("v");
 
 ytproDownDiv.innerHTML="Loading...";
 
-var info=await fetch("https://youtube-downloader.deno.dev/video?id="+id);
+var info=await fetch("https://paxsenixjs.deno.dev/info?id="+id);
 info=await info.json();
 
-var thumb=info.video.thumbnail?.thumbnails;
-var vids=info.stream.formats;
-var avids=info.stream.adaptiveFormats;
-var t=info.video.title.replaceAll("|","").replaceAll("\\","").replaceAll("?","").replaceAll("*","").replaceAll("<","").replaceAll("/","").replaceAll(":","").replaceAll('"',"").replaceAll(">","");
+var thumb=info.basic_info?.thumbnail;
+var vids=info.streaming_data.formats;
+var avids=info.streaming_data.adaptive_formats;
+var t=info.basic_info.title.replaceAll("|","").replaceAll("\\","").replaceAll("?","").replaceAll("*","").replaceAll("<","").replaceAll("/","").replaceAll(":","").replaceAll('"',"").replaceAll(">","");
 ytproDownDiv.innerHTML="<style>#downytprodiv a{text-decoration:none;color:white;} #downytprodiv li{list-style:none; display:flex;align-items:center;justify-content:center;color:#fff;border-radius:25px;padding:10px;background:#000;margin:5px;}</style>";
 ytproDownDiv.innerHTML+="Select Available Formats<ul id='listurl'>";
 
 for(var x in vids){
-ytproDownDiv.innerHTML+=`<li data-ytprotit="${t}"  style="background:#001;"  onclick="YTDownVid(this,'.mp4')"  data-ytprourl="${vids[x].url}">
-${downBtn}<span style="margin-left:10px;"  >${vids[x].qualityLabel} ${formatFileSize(((vids[x].bitrate*(vids[x].approxDurationMs/1000))/8))} </span></li>` ;
+ytproDownDiv.innerHTML+=`<li data-ytprotit="${t}"  style="background:#001;"  onclick="YTDownVid(this,'.mp4')"  data-ytprourl="https://paxsenixjs.deno.dev/download?id=${id}&type=video+audio&quality=${vids[x].quality_label}">
+${downBtn}<span style="margin-left:10px;"  >${vids[x].quality_label} ${formatFileSize(((vids[x].bitrate*(vids[x].approx_duration_ms/1000))/8))} </span></li>` ;
 
 
 
@@ -624,8 +622,8 @@ ${downBtn}<span style="margin-left:10px;"  >${vids[x].qualityLabel} ${formatFile
 
 for(x in avids){
 if(avids[x].mimeType.indexOf("audio") > -1){
-ytproDownDiv.innerHTML+=`<li data-ytprotit="${t}"  onclick="YTDownVid(this,'.mp3')"  data-ytprourl="${avids[x].url}">
-${downBtn}<span style="margin-left:10px;"  >Audio${formatFileSize(avids[x].contentLength)} 
+ytproDownDiv.innerHTML+=`<li data-ytprotit="${t}"  onclick="YTDownVid(this,'.mp3')"  data-ytprourl="https://paxsenixjs.deno.dev/download?id=${id}&type=audio&quality=best">
+${downBtn}<span style="margin-left:10px;"  >Audio${formatFileSize(avids[x].content_length)} 
 </span></li>` ;
 }
 }
