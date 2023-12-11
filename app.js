@@ -1,24 +1,3 @@
-/*****YTPRO*******
-Author: paxsenix0
-Version: 1.0
-URI: https://github.com/paxsenix0/
-*/
-
-
-//DEBUG
-/*var debug=false;
-var Android={
-pipvid:()=>{},
-gohome:()=>{},
-getInfo:()=>{},
-oplink:()=>{},
-downvid:()=>{}
-};
-if(window.eruda == null){
-//ERUDA
-window.location.href=`javascript:(function () { var script = document.createElement('script'); script.src="//cdn.jsdelivr.net/npm/eruda"; document.body.appendChild(script); script.onload = function () { eruda.init() } })();`;
-}
-/**/
 
 
 /*Few Stupid Inits*/
@@ -621,7 +600,7 @@ ${downBtn}<span style="margin-left:10px;"  >${vids[x].quality_label} ${formatFil
 }
 
 for(x in avids){
-if(avids[x].mimeType.indexOf("audio") > -1){
+if(avids[x].mime_type.indexOf("audio") > -1){
 ytproDownDiv.innerHTML+=`<li data-ytprotit="${t}"  onclick="YTDownVid(this,'.mp3')"  data-ytprourl="https://paxsenixjs.deno.dev/download?id=${id}&type=audio&quality=best">
 ${downBtn}<span style="margin-left:10px;"  >Audio${formatFileSize(avids[x].content_length)} 
 </span></li>` ;
