@@ -688,6 +688,14 @@ ytproMainDiv.appendChild(ytproFavElem);
 ytproFavElem.addEventListener("click",()=>{ytProHeart(ytproFavElem);});
 
 
+var videoId="";
+
+if(window.location.pathname.indexOf("shorts") > -1){
+videoId=window.location.pathname.substr(8,window.location.pathname.length);
+}
+else{
+videoId=new URLSearchParams(window.location.search).get("v");
+}
 
 /*Download Button*/
 var ytproDownVidElem=document.createElement("div");
@@ -698,7 +706,7 @@ ytproMainDiv.appendChild(ytproDownVidElem);
 ytproDownVidElem.addEventListener("click",
 function(){
 /*window.location.hash="download";*/
-Android.doDownload(window.location.search);
+Android.doDownload(videoId);
 });
 
 /*PIP Button*/
@@ -834,7 +842,7 @@ ysDown.innerHTML=downBtn.replace(`width="16" height="16"`,`width="23" height="23
 ysDown.addEventListener("click",
 function(){
 /*window.location.hash="download";*/
-Android.doDownload(window.location.search);
+Android.doDownload(videoId);
 });
 
 
