@@ -696,7 +696,7 @@ ytproMainDiv.appendChild(ytproDownVidElem);
 ytproDownVidElem.addEventListener("click",
 function(){
 /*window.location.hash="download";*/
-Android.doDownload(window.location.pathname);
+Android.doDownload(window.location.href);
 });
 
 /*PIP Button*/
@@ -832,7 +832,7 @@ ysDown.innerHTML=downBtn.replace(`width="16" height="16"`,`width="23" height="23
 ysDown.addEventListener("click",
 function(){
 /*window.location.hash="download";*/
-Android.doDownload(window.location.pathname);
+Android.doDownload(window.location.href);
 });
 
 
