@@ -695,8 +695,7 @@ ytproDownVidElem.innerHTML=`${downBtn}<span style="margin-left:8px">Download<spa
 ytproMainDiv.appendChild(ytproDownVidElem);
 ytproDownVidElem.addEventListener("click",
 function(){
-/*window.location.hash="download";*/
-Android.doDownload(new URL(window.location.href));
+window.location.hash="download";
 });
 
 /*PIP Button*/
@@ -831,8 +830,7 @@ ysDown.innerHTML=downBtn.replace(`width="16" height="16"`,`width="23" height="23
 `<span style="position:absolute;bottom:5px;color:white;font-size:14px;left:-5px">Download<span>`;
 ysDown.addEventListener("click",
 function(){
-/*window.location.hash="download";*/
-Android.doDownload(new URL(window.location.href));
+window.location.hash="download";
 });
 
 
@@ -1175,7 +1173,15 @@ setInterval(pkc,0);
 window.onhashchange=()=>{
 if(window.location.hash == "#download"){
 /*ytproDownVid();*/
-Android.doDownload(new URL(window.location.href));
+var id="";
+
+if(window.location.pathname.indexOf("shorts") > -1){
+id=window.location.pathname.substr(8,window.location.pathname.length);
+}
+else{
+id=new URLSearchParams(window.location.search).get("v");
+}
+Android.doDownload(id);
 }else if(window.location.hash == "#settings"){
 ytproSettings();
 }
