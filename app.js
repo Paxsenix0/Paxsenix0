@@ -687,16 +687,6 @@ ytproFavElem.innerHTML=`<svg xmlns="http://www.w3.org/2000/svg" width="16" heigh
 ytproMainDiv.appendChild(ytproFavElem);
 ytproFavElem.addEventListener("click",()=>{ytProHeart(ytproFavElem);});
 
-
-var videoId="";
-
-if(window.location.pathname.indexOf("shorts") > -1){
-videoId=window.location.pathname.substr(8,window.location.pathname.length);
-}
-else{
-videoId=new URLSearchParams(window.location.search).get("v");
-}
-
 /*Download Button*/
 var ytproDownVidElem=document.createElement("div");
 sty(ytproDownVidElem);
@@ -706,6 +696,14 @@ ytproMainDiv.appendChild(ytproDownVidElem);
 ytproDownVidElem.addEventListener("click",
 function(){
 /*window.location.hash="download";*/
+var videoId="";
+
+if(window.location.pathname.indexOf("shorts") > -1){
+videoId=window.location.pathname.substr(8,window.location.pathname.length);
+}
+else{
+videoId=new URLSearchParams(window.location.search).get("v");
+}
 Android.doDownload(videoId);
 });
 
