@@ -696,15 +696,7 @@ ytproMainDiv.appendChild(ytproDownVidElem);
 ytproDownVidElem.addEventListener("click",
 function(){
 /*window.location.hash="download";*/
-var videoId="";
-
-if(window.location.pathname.indexOf("shorts") > -1){
-videoId=window.location.pathname.substr(8,window.location.pathname.length);
-}
-else{
-videoId=new URLSearchParams(window.location.search).get("v");
-}
-Android.doDownload(videoId);
+Android.doDownload(window.location.pathname);
 });
 
 /*PIP Button*/
@@ -840,7 +832,7 @@ ysDown.innerHTML=downBtn.replace(`width="16" height="16"`,`width="23" height="23
 ysDown.addEventListener("click",
 function(){
 /*window.location.hash="download";*/
-Android.doDownload(videoId);
+Android.doDownload(window.location.pathname);
 });
 
 
