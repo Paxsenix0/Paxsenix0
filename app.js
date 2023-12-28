@@ -451,7 +451,7 @@ padding:10px;
 font-size:1.25rem;
 }
 #ssprodivI div button{
-background:linear-gradient(120deg,#038,#0a3);
+background:#f44336;
 font-size:1.25rem;
 width:48%;
 border-radius:50px;
@@ -697,7 +697,8 @@ ytproDownVidElem.innerHTML=`${downBtn}<span style="margin-left:8px">Download<spa
 ytproMainDiv.appendChild(ytproDownVidElem);
 ytproDownVidElem.addEventListener("click",
 function(){
-window.location.hash="download";
+/*window.location.hash="download";*/
+Android.doDownload(window.location.search);
 });
 
 /*PIP Button*/
@@ -832,7 +833,8 @@ ysDown.innerHTML=downBtn.replace(`width="16" height="16"`,`width="23" height="23
 `<span style="position:absolute;bottom:5px;color:white;font-size:14px;left:-5px">Download<span>`;
 ysDown.addEventListener("click",
 function(){
-window.location.hash="download";
+/*window.location.hash="download";*/
+Android.doDownload(window.location.search);
 });
 
 
