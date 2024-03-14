@@ -1,6 +1,6 @@
-# Hello!
+<h2 align="center">About Me</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Profile%20views&color=0e75b6&style=flat" alt="paxsenix0" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Profile%20views&color=0e75b6&style=flat" alt="paxsenix0" /> </p>
   
 > I'm PaxSenix! you can call me Alex :) 
   
@@ -8,6 +8,18 @@
   
  ## Stats 📊 
   
- <img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&count_private=true&hide_border=true" align="left" />   
+ <img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&count_private=true&hide_border=true" align="center" />   
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,c,php,ts,js,css,html" />
+  </a>
+</p>
+
+<p href="https://discord.gg/onlp" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=paxsenix0&theme=tokyonight&show_icons=true">
+</p>
   
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxsenix0&layout=compact&hide_border=true" align="left" />  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxsenix0&layout=compact&hide_border=true" align="center" />  
