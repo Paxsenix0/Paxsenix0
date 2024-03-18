@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Profile%20views&color=0e75b6&style=flat" alt="paxsenix0" /> </p>
   
-> I'm PaxSenix! you can call me Alex :) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+I'm+Alex;I+live+in+Indonesia;I+hate+code)](https://git.io/typing-svg)
   
 > Join my Telegram Channel: [@PaxSenix](https://t.me/PaxSenix) 
 
