@@ -16,7 +16,4 @@
 
 <p href="https://t.me/paxsenix" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=paxsenix0&theme=tokyonight&show_icons=true">
-</p>
-  <p href="https://t.me/paxsenix" align="center">
- <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxsenix0&layout=compact&hide_border=true" />
-</p>
+<p><img align="left" src="https://github-blabal-stats.vercel.app/api/top-langs/?username=paxsenix0&layout=compact&theme=dark" alt="paxsenix0" /></p>
