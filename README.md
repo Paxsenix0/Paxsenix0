@@ -9,11 +9,11 @@
 <h2 align="center">Skills </h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://paxsenixofc.my.id">
     <img src="https://skillicons.dev/icons?i=androidstudio,mysql,firebase,python,java,php,ts,js,css,html" />
   </a>
 </p>
 
 <p href="https://t.me/paxsenix" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=paxsenix0&theme=tokyonight&show_icons=true">
-<p><img align="left" src="https://github-blabal-stats.vercel.app/api/top-langs/?username=paxsenix0&layout=compact&theme=dark" alt="paxsenix0" /></p>
+<img alt="" src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<p><img align="left" src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="paxsenix0" /></p>
