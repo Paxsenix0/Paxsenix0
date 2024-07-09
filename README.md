@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="center">Hello 👋</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Profile%20views&color=0e75b6&style=flat" alt="paxsenix0" />
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+I'm+Alex;I+live+in+Indonesia;I+hate+code" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+I'm+Alex;I+live+in+Indonesia;I+hate+code&center=true&vCenter=true" alt="Typing SVG">
   </a>
 </p>
 
