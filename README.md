@@ -53,7 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,python,java,php,ts,js,css,html" alt="Skills Icons" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,python,java,php,css,html" height="40" alt="Skills Icons" />
 </div>
 
 ###
