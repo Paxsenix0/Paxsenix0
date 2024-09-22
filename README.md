@@ -73,16 +73,9 @@
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=paxsenix0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="100" alt="streak graph"  />
 </div>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<p align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
-</p>
-<p align="left">
+</div>
+<div align="left">
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
-</p>
+</div>
