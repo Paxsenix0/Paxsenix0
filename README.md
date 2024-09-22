@@ -53,19 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,python,java,php,ts,js,css,html" alt="Skills Icons" />
 </div>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<p align="left">
-  <a href="https://paxsenixofc.my.id">
-    <img src="https://skillicons.dev/icons?i=androidstudio,mysql,firebase,python,java,php,ts,js,css,html" alt="Skills Icons" />
-  </a>
-</p>
 
 ###
 
