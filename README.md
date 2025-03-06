@@ -71,7 +71,7 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=paxsenix0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
 </div>
 <div align="left">
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
