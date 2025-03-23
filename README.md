@@ -81,7 +81,7 @@
 </div> -->
 
 <h1 align="center">I'm Alex :)</h1>
-<h3 align="center">Why y'all stalk my account?</h3>
+<h4 align="center">Why y'all stalk my account?</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Visitors&color=blueviolet&style=for-the-badge" alt="paxsenix0" />
@@ -97,11 +97,11 @@
   
 ### 🚀 Quick Facts
   
-🔭 I'm currently working on PaxSenix-API
-🌱 I'm currently learning Web Development
-🎮 When not coding, I'm probably Sleep
-🎯 2025 Goal: Happy
-⚡ Fun fact: I have skill issue
+🔭 I'm currently working on **PaxSenix-API**  
+🌱 I'm currently learning **Website Development**  
+🎮 When not coding, I'm probably **Sleep**  
+🎯 2025 Goal: **Happy.**  
+⚡ Fun fact: **I have skill issue**
 
 </div>
 
