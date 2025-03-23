@@ -80,8 +80,8 @@
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
 </div> -->
 
-<h1 align="center">✨ Hello, World! I'm Alex ✨</h1>
-<h3 align="center">Turning coffee into code since 2024 ☕→💻</h3>
+<h1 align="center">I'm Alex :)</h1>
+<h3 align="center">Why y'all stalk my account?</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Visitors&color=blueviolet&style=for-the-badge" alt="paxsenix0" />
@@ -97,11 +97,11 @@
   
 ### 🚀 Quick Facts
   
-🔭 I'm currently working on PaxSenix-API
-🌱 I'm currently learning Web Development
-🎮 When not coding, I'm probably Sleep 
-🎯 2025 Goal: Happy
-⚡ Fun fact: I have skill issue
+🔭 I'm currently working on PaxSenix-API\n
+🌱 I'm currently learning Web Development\n
+🎮 When not coding, I'm probably Sleep\n
+🎯 2025 Goal: Happy\n
+⚡ Fun fact: I have skill issue\n
 
 </div>
 
