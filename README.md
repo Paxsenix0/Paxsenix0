@@ -97,11 +97,11 @@
   
 ### 🚀 Quick Facts
   
-🔭 I'm currently working on PaxSenix-API\n
-🌱 I'm currently learning Web Development\n
-🎮 When not coding, I'm probably Sleep\n
-🎯 2025 Goal: Happy\n
-⚡ Fun fact: I have skill issue\n
+🔭 I'm currently working on PaxSenix-API
+🌱 I'm currently learning Web Development
+🎮 When not coding, I'm probably Sleep
+🎯 2025 Goal: Happy
+⚡ Fun fact: I have skill issue
 
 </div>
 
