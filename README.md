@@ -1,10 +1,10 @@
-<h1 align="center">Hello 👋</h1>
+<!-- <h1 align="center">Hello 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Profile%20views&color=0e75b6&style=flat" alt="paxsenix0" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7FF&lines=Hi%2C+I'm+Alex;I+live+in+Indonesia;I+hate+code&center=true&vCenter=true" alt="Typing SVG">
   </a>
@@ -79,3 +79,88 @@
 <div align="left">
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
 </div> -->
+
+<h1 align="center">✨ Hello, World! I'm Alex ✨</h1>
+<h3 align="center">Turning coffee into code since 2024 ☕→💻</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Visitors&color=blueviolet&style=for-the-badge" alt="paxsenix0" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/paxsenix0"><img src="https://img.shields.io/github/followers/paxsenix0?label=Follow&style=social" alt="GitHub followers"></a>
+</p>
+
+---
+
+<div align="center">
+  
+### 🚀 Quick Facts
+  
+🔭 I'm currently working on PaxSenix-API
+🌱 I'm currently learning Web Development
+🎮 When not coding, I'm probably Sleep 
+🎯 2025 Goal: Happy
+⚡ Fun fact: I have skill issue
+
+</div>
+
+---
+
+<h3 align="center">🛠️ My Toolkit</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
+
+---
+
+<div align="center">
+  
+### 📊 GitHub Stats
+  
+<img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&theme=radical" alt="paxsenix0's GitHub stats" />
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
+
+</div>
+
+---
+
+<h3 align="center">🔝 Top Projects</h3>
+
+<p align="center">
+  <!-- Project 1 -->
+  <a href="[project-link]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=[repo-name]&theme=radical" />
+  </a>
+  <!-- Project 2 -->
+  <a href="[project-link]">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=[repo-name]&theme=radical" />
+  </a>
+</p>
+
+---
+
+<!--<div align="center">
+  
+### 🎵 Currently Vibing To
+  
+[![Spotify](https://novatorem-paxsenix0.vercel.app/api/spotify)](https://open.spotify.com/user/[your-spotify-username])
+
+</div>
+
+---
+-->
+<h3 align="center">Let's Connect!</h3>
+
+<p align="center">
+  <a href="https://twitter.com/PaxSenix"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+</p>
+
+<h4 align="center">👾 Thanks for visiting! Here's a cookie 🍪</h4>
