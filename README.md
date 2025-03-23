@@ -136,8 +136,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=MusixMatch-Lyrics&theme=radical" />
   </a>
   <!-- Project 2 -->
-  <a href="[project-link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=[repo-name]&theme=radical" />
+  <a href="https://github.com/Paxsenix0/example-express-swagger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=example-express-swagger&theme=radical" />
   </a>
 </p>
 
