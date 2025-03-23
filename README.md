@@ -132,8 +132,8 @@
 
 <p align="center">
   <!-- Project 1 -->
-  <a href="[project-link]">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=[repo-name]&theme=radical" />
+  <a href="https://github.com/Paxsenix0/MusixMatch-Lyrics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=MusixMatch-Lyrics&theme=radical" />
   </a>
   <!-- Project 2 -->
   <a href="[project-link]">
