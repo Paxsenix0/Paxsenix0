@@ -81,7 +81,7 @@
 </div> -->
 
 <h1 align="center">I'm Alex :)</h1>
-<h4 align="center">Why y'all stalk my account?</h4>
+<h4 align="center">Why y'all stalk my account? 👀</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Visitors&color=blueviolet&style=for-the-badge" alt="paxsenix0" />
@@ -112,6 +112,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="Skills Icons" />
 </p>
 
 ---
