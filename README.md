@@ -123,7 +123,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&theme=radical" alt="paxsenix0's GitHub stats" />
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
 
 </div>
 
