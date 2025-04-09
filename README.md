@@ -132,13 +132,14 @@
 <h3 align="center">🔝 Top Projects</h3>
 
 <p align="center">
-  <!-- Project 1 -->
   <a href="https://github.com/Paxsenix0/MusixMatch-Lyrics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=MusixMatch-Lyrics&theme=radical" />
   </a>
-  <!-- Project 2 -->
   <a href="https://github.com/Paxsenix0/example-express-swagger">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=example-express-swagger&theme=radical" />
+  </a>
+  <a href="https://github.com/Paxsenix0/Spotify-Canvas-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=paxsenix0&repo=Spotify-Canvas-API&theme=radical" />
   </a>
 </p>
 
