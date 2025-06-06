@@ -80,7 +80,7 @@
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
 </div> -->
 
-<h1 align="center">I'm Alex :)</h1>
+<!-- <h1 align="center">I'm Alex :)</h1>
 <h4 align="center">Why y'all stalk my account? 👀</h4>
 
 <p align="center">
@@ -115,19 +115,19 @@
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="Skills Icons" />
 </p>
 
----
+--- -->
 
 <div align="center">
   
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
   
-<img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&theme=radical" alt="paxsenix0's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&theme=radical" alt="paxsenix0's GitHub stats" /> -->
   
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
 
 </div>
 
----
+<!-- ---
 
 <h3 align="center">🔝 Top Projects</h3>
 
@@ -145,7 +145,7 @@
 
 ---
 
-<!--<div align="center">
+<div align="center">
   
 ### 🎵 Currently Vibing To
   
@@ -154,7 +154,6 @@
 </div>
 
 ---
--->
 <h3 align="center">Let's Connect!</h3>
 
 <p align="center">
@@ -176,4 +175,4 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
-<h4 align="center">👾 Thanks for visiting! Here's a cookie 🍪</h4>
+<h4 align="center">👾 Thanks for visiting! Here's a cookie 🍪</h4> -->
