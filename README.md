@@ -80,9 +80,9 @@
   <img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="GitHub Stats Languages" />
 </div> -->
 
-<!-- <h1 align="center">I'm Alex :)</h1>
-<h4 align="center">Why y'all stalk my account? 👀</h4>
-
+<h1 align="center">I'm Alex :)</h1>
+<h4 align="center">I wrote spaghetti codes.</h4>
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=paxsenix0&label=Visitors&color=blueviolet&style=for-the-badge" alt="paxsenix0" />
 </p>
