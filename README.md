@@ -127,13 +127,13 @@
 
 <h3 align="center">🎶 Music</h3>
 
-<a href="https://www.last.fm/user/paxsenix">
-  <img src="https://img.shields.io/badge/paxsenix-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007" />
-</a>
+<p align="center">
+  <a href="https://www.last.fm/user/paxsenix">
+    <img src="https://img.shields.io/badge/paxsenix-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007" />
+  </a>
+</p>
 
-<a href="https://www.last.fm/user/paxsenix">
-  <img src="https://lastfm-recently-played.vercel.app/api?user=paxsenix&count=3&width=600" />
-</a>
+![My Last.fm Activity](https://lastfm-recently-played.vercel.app/api?user=paxsenix&count=3&width=600)
 
 </div>
 
