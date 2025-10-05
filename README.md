@@ -122,18 +122,17 @@
 <!-- ### 📊 GitHub Stats
   
 <img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&theme=radical" alt="paxsenix0's GitHub stats" /> -->
-  
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
-
-<h3 align="center">🎶 Music</h3>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
+
+  <h3 align="center">🎶 Music</h3>
   <a href="https://www.last.fm/user/paxsenix">
     <img src="https://img.shields.io/badge/paxsenix-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007" />
   </a>
-</p>
 
-![My Last.fm Activity](https://lastfm-recently-played.vercel.app/api?user=paxsenix&count=3&width=600)
+  ![My Last.fm Activity](https://lastfm-recently-played.vercel.app/api?user=paxsenix&count=3&width=600)
+</p>
 
 </div>
 
