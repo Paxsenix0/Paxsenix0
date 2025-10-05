@@ -118,21 +118,18 @@
 --- -->
 
 <div align="center">
-  
-<!-- ### 📊 GitHub Stats
-  
-<img src="https://github-readme-stats.vercel.app/api?username=paxsenix0&show_icons=true&theme=radical" alt="paxsenix0's GitHub stats" /> -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
 
-  <h3 align="center">🎶 Music</h3>
-  <a href="https://www.last.fm/user/paxsenix">
-    <img src="https://img.shields.io/badge/paxsenix-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007" />
-  </a>
+<h3>🎶 Music</h3>
 
-  ![My Last.fm Activity](https://lastfm-recently-played.vercel.app/api?user=paxsenix&count=3&width=600)
-</p>
+<a href="https://www.last.fm/user/paxsenix">
+  <img src="https://img.shields.io/badge/paxsenix-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007" alt="Last.fm Profile" />
+</a>
+
+<br/>
+
+<img src="https://lastfm-recently-played.vercel.app/api?user=paxsenix&count=3&width=600" alt="My Last.fm Activity" />
 
 </div>
 
