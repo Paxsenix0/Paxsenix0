@@ -82,6 +82,7 @@
 
 <h1 align="center">I'm Alex :)</h1>
 <h4 align="center">I wrote spaghetti codes.</h4>
+<h4 align="center">I think I'm still a beginner.</h4>
 
 <div align="center">
 
