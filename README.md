@@ -88,7 +88,7 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
 
-<img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/overview.svg" alt="GitHub Stats Overview" />
+<img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
 
 <h3>🎶 Music :)</h3>
 
