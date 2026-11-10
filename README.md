@@ -88,7 +88,9 @@
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=paxsenix0&theme=radical" alt="paxsenix0's streak" />
 
-<h3>🎶 Music</h3>
+<img src="https://raw.githubusercontent.com/paxsenix0/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats Overview" />
+
+<h3>🎶 Music :)</h3>
 
 <a href="https://www.last.fm/user/paxsenix">
   <img src="https://img.shields.io/badge/paxsenix-profile?style=for-the-badge&logo=lastdotfm&logoColor=white&label=last.fm&labelColor=21262d&color=d51007" alt="Last.fm Profile" />
